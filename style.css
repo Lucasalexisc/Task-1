@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+}
+.texto1{
+    padding-left: 5%;
+}
+li {
+    display: inline;
+    padding-left: 15%;
+  }
+  .principal{
+    display: flex;
+  }
+  p{
+    padding-left: 10px;
+  }
+  .text1{
+    padding-left: 75px;
+  }
+  section{
+    padding-left: 180px;
+  }
+  .mision{
+    padding-left: 75px;
+  }
+  .contacto{
+    padding-left: 30px;
+  }
